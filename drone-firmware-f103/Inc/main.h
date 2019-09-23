@@ -62,6 +62,8 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define SPI1_SS_Pin GPIO_PIN_4
 #define SPI1_SS_GPIO_Port GPIOA
+#define BUTTON_Pin GPIO_PIN_11
+#define BUTTON_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */

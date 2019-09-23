@@ -1,7 +1,7 @@
 [PreviousGenFiles]
-HeaderPath=/home/tyko/devel/drone-firmware-f103/Inc
+HeaderPath=/home/tyko/Development/DroneProject/drone-firmware-f103/Inc
 HeaderFiles=stm32f1xx_it.h;stm32f1xx_hal_conf.h;main.h;
-SourcePath=/home/tyko/devel/drone-firmware-f103/Src
+SourcePath=/home/tyko/Development/DroneProject/drone-firmware-f103/Src
 SourceFiles=stm32f1xx_it.c;stm32f1xx_hal_msp.c;main.c;
 
 [PreviousLibFiles]
